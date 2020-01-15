@@ -1,0 +1,42 @@
+body {
+  background-color: lightgrey;
+  margin: 0;
+}
+
+.small-blue {
+  background-color: dodgerblue;
+  height: 100px;
+  width: 100px;
+  margin: 25px 50px;
+}
+
+.text-box {
+  background-color: whitesmoke;
+  height: 300px;
+}
+
+.text {
+  text-align: left;
+  padding: 70px 50px;
+  font-size: 2rem;
+}
+
+.blue-box {
+  background-color: dodgerblue;
+  height: 200px;
+}
+
+.green-box {
+  background-color: aquamarine;
+  height: 200px;
+}
+
+.olive-box {
+  background-color: palegreen;
+  height: 200px;
+}
+
+.yellow-box {
+  background-color: yellow;
+  height: 200px;
+}
